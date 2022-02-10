@@ -46,7 +46,7 @@
     "@storybook/addon-knobs": "^5.3.19",
     "@storybook/react": "^5.3.19",
     "babel-loader": "^8.1.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "redux-devtools-extension": "^2.13.8",
     "redux-logger": "^3.0.6"
   }
